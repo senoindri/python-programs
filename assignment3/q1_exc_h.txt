@@ -1,0 +1,3 @@
+Q1. What is an Exception in python? Write the difference between Exceptions and Syntax errors.
+A. an exception is an event occurs during program execution that disrupts the flow of the program.These events are results of errors in a users program such as trying to access an array index that is out of bounds or trying to read a file that does not exist or trying to divide a number by 0. 
+syntax errors arise during compilation of a program, before execution. these are detected by the python interpreter. but an exception arises during the execution of a program i.e. when the program in running. these are caused by various run-time issues 
